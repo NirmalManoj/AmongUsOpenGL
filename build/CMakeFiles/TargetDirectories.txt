@@ -1,0 +1,9 @@
+/home/nirmal/cg/submission/2019111011/build/CMakeFiles/rebuild_cache.dir
+/home/nirmal/cg/submission/2019111011/build/CMakeFiles/edit_cache.dir
+/home/nirmal/cg/submission/2019111011/build/CMakeFiles/glad.dir
+/home/nirmal/cg/submission/2019111011/build/CMakeFiles/Hello-World.dir
+/home/nirmal/cg/submission/2019111011/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/nirmal/cg/submission/2019111011/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/nirmal/cg/submission/2019111011/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/nirmal/cg/submission/2019111011/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/nirmal/cg/submission/2019111011/build/libraries/glfw/src/CMakeFiles/glfw.dir
